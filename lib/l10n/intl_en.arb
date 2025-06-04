@@ -1,0 +1,11 @@
+{
+  "login": "Login",
+  "emailOrPhone": "Email or Phone Number",
+  "enterEmailOrPhone": "Enter your email or phone number",
+  "password": "Password",
+  "enterPassword": "Enter your password",
+  "forgotPassword": "Forgot Password?",
+  "loginButton": "Login",
+  "noAccount": "Don't have an account?",
+  "createAccount": "Create a new account"
+}

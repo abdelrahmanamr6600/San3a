@@ -1,0 +1,11 @@
+{
+  "login": "تسجيل الدخول",
+  "emailOrPhone": "البريد الإلكتروني أو رقم الجوال",
+  "enterEmailOrPhone": "أدخل بريدك الإلكتروني أو رقم جوالك",
+  "password": "كلمة المرور",
+  "enterPassword": "أدخل كلمة المرور",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "loginButton": "تسجيل الدخول",
+  "noAccount": "ليس لديك حساب؟",
+  "createAccount": "إنشاء حساب جديد"
+}
